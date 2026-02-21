@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "1.0.1",
+  "versionId": "1.0.2",
   "name": "Jounetverse",
   "summary": "CobbleVerse 1.7.2 enhanced for a family & friends survival experience. Full Minecraft challenge with Pokémon adventures.",
   "files": [
@@ -861,21 +861,6 @@
       "fileSize": 633065
     },
     {
-      "path": "mods/nethermap-4.0.0-1.21.1.jar",
-      "hashes": {
-        "sha512": "78fd0e4cd88dc88b353ed3f924d645c66fdb323ce8ce2a809e99bd8d09ee5e0d6e20cf6267050f958bd7792ec2c12f8d18cb105a13044cac6456b3f37ac1c435",
-        "sha1": "4a4849b36757a268253a3a87b4a02b60f59816a6"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/fdtm99de/versions/BEfm3cNd/nethermap-4.0.0-1.21.1.jar"
-      ],
-      "fileSize": 21464
-    },
-    {
       "path": "mods/balm-fabric-1.21.1-21.0.55.jar",
       "hashes": {
         "sha1": "35e4feffc229e1086a84ef15d1ef6169186ee106",
@@ -1416,21 +1401,6 @@
       "fileSize": 64439
     },
     {
-      "path": "mods/Xaeros_Minimap_25.2.10_Fabric_1.21.jar",
-      "hashes": {
-        "sha1": "3854bef072f7637ef7523d7a6e97b50649833b3e",
-        "sha512": "7702b6a4cd94b7e80e8d381f2d620acc69467ab4df45cd9a4d37d2484dd8b0c3b0048a6be3bec16926b562891c38c0543316cda295a57cb27caad9e9de8a6362"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/1bokaNcj/versions/IaH8q5hM/Xaeros_Minimap_25.2.10_Fabric_1.21.jar"
-      ],
-      "fileSize": 1745107
-    },
-    {
       "path": "mods/fabric-language-kotlin-1.13.8+kotlin.2.3.0.jar",
       "hashes": {
         "sha1": "05fe02fe61232c4ddea4059e8103281424d5a2bd",
@@ -1804,21 +1774,6 @@
         "https://cdn.modrinth.com/data/TiFXQSAQ/versions/n1gBFmIp/MysticMons_v3.2.1.zip"
       ],
       "fileSize": 1268389
-    },
-    {
-      "path": "resourcepacks/z DO NOT ENABLE z [E19 Minimap Icons - Credits Only].zip",
-      "hashes": {
-        "sha1": "8bf0397e150278bbf09bce33d1e32734e8a21b18",
-        "sha512": "0c165936d683e12aa5bf35a83245fbfd89707d24fbdbe11a3ca917ffe5bb683f4bf9789df24f4f82600fc05aded7efcf6d7f1b56e576140b24c2521ffa343470"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/Va3BanZa/versions/OQgouS3q/E19%20Cobblemon%20Minimap%20Icons.zip"
-      ],
-      "fileSize": 15941923
     },
     {
       "path": "mods/sophisticatedcore-1.21.1-1.2.9.21.168.jar",
