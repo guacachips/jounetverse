@@ -2106,21 +2106,6 @@
       "fileSize": 151851
     },
     {
-      "path": "mods/tmcraft-1.4.18+1.7.1.jar",
-      "hashes": {
-        "sha1": "284d03c69dc267e65351d13d6ce3955332d30647",
-        "sha512": "87d6ce4ac9e6567302dd568c6ab8c4cf1130642385e88ca8e9feb3cccd6da1a7c5d95debbd46efce607ce4460b11f87220ebcafc5ac54085ae6f4a11d244f5c0"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/HU6mkUZs/versions/bqTQ8if8/tmcraft-1.4.18%2B1.7.1.jar"
-      ],
-      "fileSize": 3360581
-    },
-    {
       "path": "mods/yet_another_config_lib_v3-3.8.1+1.21.1-fabric.jar",
       "hashes": {
         "sha512": "d4532cf9ed422c584447d1b44e5e16ce894675599b44bebb3c293dafb559efd87b5c4ad8c571e6a845a55095d16e3e7739011483365ef264678fd9639540c903",
