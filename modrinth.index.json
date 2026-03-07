@@ -111,21 +111,6 @@
       "fileSize": 74925
     },
     {
-      "path": "mods/timcore-fabric-1.7.2-1.31.0.jar",
-      "hashes": {
-        "sha1": "e1003ce1e2cdc65080733f291ed86592e13c9a0b",
-        "sha512": "73339ac8d80a6d2d28bd754d06c325b862540b9a25fb7afdc16240fbde6cd2f640bfa56f22e8113beef120b4ed11c868a98249c3d13c58073531982aa650a122"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/lVP9aUaY/versions/wmJvRZzY/timcore-fabric-1.7.2-1.31.0.jar"
-      ],
-      "fileSize": 297560
-    },
-    {
       "path": "resourcepacks/z DO NOT ENABLE z [ATM x MSD - Credits Only].zip",
       "hashes": {
         "sha1": "7186490990329f0633ec9fea438a69381e6ffce7",
@@ -889,21 +874,6 @@
         "https://cdn.modrinth.com/data/MBAkmtvl/versions/jiTpUYmp/balm-fabric-1.21.1-21.0.55.jar"
       ],
       "fileSize": 763363
-    },
-    {
-      "path": "mods/capturexp-fabric-1.7.2-1.3.0.jar",
-      "hashes": {
-        "sha1": "fb5cb337164640237ec38de40cd929cc426a362e",
-        "sha512": "c618d017249a7c05bf1bbd2fd632beb629d4f7223f6e352b651bb35ad9c3467a4a75f414efd58009bde38311d77baedb898d83f951606e874236e08e5e9acaf5"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/LBl4Qguc/versions/6kqNNkZe/capturexp-fabric-1.7.2-1.3.0.jar"
-      ],
-      "fileSize": 22849
     },
     {
       "path": "mods/particlerain-4.0.0-beta.3+1.21.1-fabric.jar",
