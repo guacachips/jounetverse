@@ -651,21 +651,6 @@
       "fileSize": 7642216
     },
     {
-      "path": "mods/tmcraft-1.4.18+1.7.3.jar",
-      "hashes": {
-        "sha512": "39fdb210d5a822ef851237e2a7a33eea23f67c210618098587d6a022d72afc33cd52217a3fbae8336353e2d4792510774d15acc5e1073df82437a9f9d9490ff5",
-        "sha1": "f423155efb2a99370fe838a6603c5f33c947946e"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/HU6mkUZs/versions/RYBI5bnM/tmcraft-1.4.18%2B1.7.3.jar"
-      ],
-      "fileSize": 3360417
-    },
-    {
       "path": "mods/customsplashscreen-2.2.0.jar",
       "hashes": {
         "sha512": "08c99c6eb998ce7caeffc42567e07b08717a6c8cff617f623ab04006097ad86f7971ae3400e905174fbd5b64c2787017f9b8ee53048e2a793be9aaae80950683",
