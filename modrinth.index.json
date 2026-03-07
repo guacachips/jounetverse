@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "1.0.3",
+  "versionId": "1.0.4",
   "name": "Jounetverse",
   "summary": "CobbleVerse 1.7.2 enhanced for a family & friends survival experience. Full Minecraft challenge with Pokémon adventures.",
   "files": [
@@ -1101,19 +1101,19 @@
       "fileSize": 3826705
     },
     {
-      "path": "mods/Cobblemon-fabric-1.7.2+1.21.1.jar",
+      "path": "mods/Cobblemon-fabric-1.7.3+1.21.1.jar",
       "hashes": {
-        "sha512": "bf13dfb6f9325513c2e2db46ab34edd5e0a264775ec5f962cd53a8b06d729a858d780c0f284888c61b2cd0a5f3454f7eef07bc759189805ba7ffa957267d9104",
-        "sha1": "62d6ce4d8ab8e978633f954571e99fc638872ed9"
+        "sha512": "7b5376f5f48177db53790237b6fb25378806972b5d3b756151b4d8f2d3c27238d6b587b77da422bc1780bfd358b4702e74369fd82cef2a35301b4b68a2f13c2e",
+        "sha1": "f192cda3fdfec0f20d1dee1887ec1b9e77b1618c"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/MdwFAVRL/versions/FcsopG0e/Cobblemon-fabric-1.7.2%2B1.21.1.jar"
+        "https://cdn.modrinth.com/data/MdwFAVRL/versions/kF7CvxTo/Cobblemon-fabric-1.7.3%2B1.21.1.jar"
       ],
-      "fileSize": 135794114
+      "fileSize": 135801550
     },
     {
       "path": "mods/CobblemonSizeVariationFabric-1.4.0+1.7.0.jar",
@@ -1131,17 +1131,17 @@
       "fileSize": 97158
     },
     {
-      "path": "mods/cobblemon-armors-1.6.0+1.7.2.jar",
+      "path": "mods/cobblemon-armors-1.6.0+1.7.3.jar",
       "hashes": {
-        "sha1": "aeed6dcf692c7e049bcaa8a63efc14d2efad1369",
-        "sha512": "7aabb185fa8a2a4bc8779c13c28e0663c8838718e5676d463f0f082bfb128188245ff2b2bff2ba2c446ad3c66b7bce98de55722d954f824bd462539dba2cf542"
+        "sha1": "23e4c10a57008110f70369a32774084a4ff32b3b",
+        "sha512": "c77c223e8e85d446e646c619f006915e4b41ca42f6fd782bb9b90c25b1b624d908734ccf0579ba6a44ca2a4740feba685a1e4d2010b6d4a4a1a7db18c1490bcc"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/WwDbGW1s/versions/Dy8lFMNt/cobblemon-armors-1.6.0%2B1.7.2.jar"
+        "https://cdn.modrinth.com/data/WwDbGW1s/versions/HQMFXhaZ/cobblemon-armors-1.6.0%2B1.7.3.jar"
       ],
       "fileSize": 17527670
     },
