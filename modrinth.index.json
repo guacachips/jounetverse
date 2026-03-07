@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "1.0.2",
+  "versionId": "1.0.3",
   "name": "Jounetverse",
   "summary": "CobbleVerse 1.7.2 enhanced for a family & friends survival experience. Full Minecraft challenge with Pokémon adventures.",
   "files": [
@@ -111,19 +111,19 @@
       "fileSize": 74925
     },
     {
-      "path": "mods/timcore-fabric-1.7.1-1.27.0.jar",
+      "path": "mods/timcore-fabric-1.7.2-1.31.0.jar",
       "hashes": {
-        "sha1": "7951c0987545eee0c4d423800296df94d370eb48",
-        "sha512": "2501b5a1f9b108cafe7e48d69f23b9678376bdca914278ba9dc2d2c04d3386c22537d9cbd21da15e3db63846d71ab1496bb3f5874b935a8f450e5b94060e01f6"
+        "sha1": "e1003ce1e2cdc65080733f291ed86592e13c9a0b",
+        "sha512": "73339ac8d80a6d2d28bd754d06c325b862540b9a25fb7afdc16240fbde6cd2f640bfa56f22e8113beef120b4ed11c868a98249c3d13c58073531982aa650a122"
       },
       "env": {
         "server": "required",
         "client": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/lVP9aUaY/versions/wzwxkniO/timcore-fabric-1.7.1-1.27.0.jar"
+        "https://cdn.modrinth.com/data/lVP9aUaY/versions/wmJvRZzY/timcore-fabric-1.7.2-1.31.0.jar"
       ],
-      "fileSize": 207417
+      "fileSize": 297560
     },
     {
       "path": "resourcepacks/z DO NOT ENABLE z [ATM x MSD - Credits Only].zip",
@@ -876,19 +876,19 @@
       "fileSize": 763363
     },
     {
-      "path": "mods/capturexp-fabric-1.7.1-1.3.0.jar",
+      "path": "mods/capturexp-fabric-1.7.2-1.3.0.jar",
       "hashes": {
-        "sha1": "8d009d9db7f519638a9ed3747913307429827496",
-        "sha512": "216f20dc6de0b5abfb1d4413b1c279711a2cb96c1997fe7460810d7dae6e4b6f8605fa24420c84a2cb66ac1ad9ce8aa533c2bc006b3c259af31da270e18d2353"
+        "sha1": "fb5cb337164640237ec38de40cd929cc426a362e",
+        "sha512": "c618d017249a7c05bf1bbd2fd632beb629d4f7223f6e352b651bb35ad9c3467a4a75f414efd58009bde38311d77baedb898d83f951606e874236e08e5e9acaf5"
       },
       "env": {
         "server": "required",
         "client": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/LBl4Qguc/versions/kKYjAPDP/capturexp-fabric-1.7.1-1.3.0.jar"
+        "https://cdn.modrinth.com/data/LBl4Qguc/versions/6kqNNkZe/capturexp-fabric-1.7.2-1.3.0.jar"
       ],
-      "fileSize": 22847
+      "fileSize": 22849
     },
     {
       "path": "mods/particlerain-4.0.0-beta.3+1.21.1-fabric.jar",
@@ -1086,19 +1086,109 @@
       "fileSize": 3826705
     },
     {
-      "path": "mods/Cobblemon-fabric-1.7.1+1.21.1.jar",
+      "path": "mods/Cobblemon-fabric-1.7.2+1.21.1.jar",
       "hashes": {
-        "sha512": "221382ccc0aa7ae65935298802ff6272b852f485bf0d03a5ba7b51f88a15aa3110282d6c9b0d6e2993fe72515f1dfffdec236b235d411ac01eb93b7dc9e5d750",
-        "sha1": "1d864c16796a98e0f40ba5bc61977a528cc1e3a1"
+        "sha512": "bf13dfb6f9325513c2e2db46ab34edd5e0a264775ec5f962cd53a8b06d729a858d780c0f284888c61b2cd0a5f3454f7eef07bc759189805ba7ffa957267d9104",
+        "sha1": "62d6ce4d8ab8e978633f954571e99fc638872ed9"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/MdwFAVRL/versions/s64m1opn/Cobblemon-fabric-1.7.1%2B1.21.1.jar"
+        "https://cdn.modrinth.com/data/MdwFAVRL/versions/FcsopG0e/Cobblemon-fabric-1.7.2%2B1.21.1.jar"
       ],
-      "fileSize": 130797814
+      "fileSize": 135794114
+    },
+    {
+      "path": "mods/CobblemonSizeVariationFabric-1.4.0+1.7.0.jar",
+      "hashes": {
+        "sha1": "3ac2ff9fffc811ce1570a09161779858685e633a",
+        "sha512": "2cfdc38d4a9bb41b0bc5b7950291e22d53a4b62b492bdf838b9482fb0f4a95a84463e9facff37cdba7aa9c9ba6ae391a315368d41152d7d73ebf03d497a8b337"
+      },
+      "env": {
+        "client": "optional",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/bMdS1gMo/versions/cJf7Izms/CobblemonSizeVariationFabric-1.4.0%2B1.7.0.jar"
+      ],
+      "fileSize": 97158
+    },
+    {
+      "path": "mods/cobblemon-armors-1.6.0+1.7.2.jar",
+      "hashes": {
+        "sha1": "aeed6dcf692c7e049bcaa8a63efc14d2efad1369",
+        "sha512": "7aabb185fa8a2a4bc8779c13c28e0663c8838718e5676d463f0f082bfb128188245ff2b2bff2ba2c446ad3c66b7bce98de55722d954f824bd462539dba2cf542"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/WwDbGW1s/versions/Dy8lFMNt/cobblemon-armors-1.6.0%2B1.7.2.jar"
+      ],
+      "fileSize": 17527670
+    },
+    {
+      "path": "mods/cobblemonalphas-1.4.1.jar",
+      "hashes": {
+        "sha1": "10cb391a4bbf2a2ca342dad214c1230f175ce817",
+        "sha512": "5404c8d8cb19f09b562169d5deef0afca7318409e87e41ca3a1848ff69b46c18fd2bdc2b187049234405bafda60c87f10204e6fc59018e61c951236faf8d7172"
+      },
+      "env": {
+        "client": "optional",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/QnWyhFGf/versions/wVSPSTdd/cobblemonalphas-1.4.1.jar"
+      ],
+      "fileSize": 510732
+    },
+    {
+      "path": "mods/exposure-fabric-1.21.1-1.9.14.jar",
+      "hashes": {
+        "sha1": "63ee31e37a0e0417776828dca454beba919b97af",
+        "sha512": "8e7920eb5572640928a52f6adf1522aff570fa4579cbeac53fff20537349b6094455d7f54d1475bbc655dd743456f5ea55e6e9ba6ea80d1e5d8cddfed0e039e1"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/hB899VmG/versions/grvKwso1/exposure-fabric-1.21.1-1.9.14.jar"
+      ],
+      "fileSize": 1972500
+    },
+    {
+      "path": "mods/exposure_catalog-fabric-1.1.1.jar",
+      "hashes": {
+        "sha1": "0cb6ef4a9ef2938cb3ea1d1b58cf2732829f282c",
+        "sha512": "85215991824d24db5ffe086fa17c167a0f7839ad26ff4054d3b46e674e4853bf5800af51e947c1407a0e526f7bbee23c49f9432d59ce80813e58a35234b7d26b"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/PWcQ3kcp/versions/mNhlYD22/exposure_catalog-fabric-1.1.1.jar"
+      ],
+      "fileSize": 160868
+    },
+    {
+      "path": "mods/exposure_polaroid-fabric-1.21.1-1.1.2.jar",
+      "hashes": {
+        "sha1": "78cefcae5272901b225a1da422a5876c303de449",
+        "sha512": "6a22beb852c6068c5de1b57c71ab232fd664ca03111f6a3cb8668ce6c0641b3e696679c1f248e44ceec030261ab7d993c7ae2fbc9a8d61f6d14f058f81fe0d40"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/WEWiqYkW/versions/g3Zse8bW/exposure_polaroid-fabric-1.21.1-1.1.2.jar"
+      ],
+      "fileSize": 178197
     },
     {
       "path": "mods/globalpacks-fabric-1.21.1-21.0.6.jar",
